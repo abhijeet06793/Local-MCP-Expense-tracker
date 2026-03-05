@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "Food",
+      "description": "Groceries, restaurants, takeaway, snacks"
+    },
+    {
+      "name": "Transport",
+      "description": "Fuel, public transit, taxi, parking"
+    },
+    {
+      "name": "Housing",
+      "description": "Rent, mortgage, repairs, maintenance"
+    },
+    {
+      "name": "Utilities",
+      "description": "Electricity, water, gas, internet, phone"
+    },
+    {
+      "name": "Health",
+      "description": "Doctor visits, medicines, gym, insurance"
+    },
+    {
+      "name": "Entertainment",
+      "description": "Movies, games, subscriptions, hobbies"
+    },
+    {
+      "name": "Shopping",
+      "description": "Clothing, electronics, household items"
+    },
+    {
+      "name": "Travel",
+      "description": "Flights, hotels, vacation expenses"
+    },
+    {
+      "name": "Education",
+      "description": "Courses, books, training, tuition fees"
+    },
+    {
+      "name": "General",
+      "description": "Miscellaneous or uncategorised expenses"
+    }
+  ]
+}
